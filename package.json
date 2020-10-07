@@ -1,0 +1,19 @@
+{
+  "name": "jayden-js-footer",
+  "version": "1.0.0",
+  "description": "dynamic footer with a date using moment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydendyer10/jayden-js-footer.git"
+  },
+  "author": "Jayden Dyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaydendyer10/jayden-js-footer/issues"
+  },
+  "homepage": "https://github.com/jaydendyer10/jayden-js-footer#readme"
+}
