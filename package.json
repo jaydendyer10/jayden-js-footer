@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jaydendyer10/jayden-js-footer/issues"
   },
-  "homepage": "https://github.com/jaydendyer10/jayden-js-footer#readme"
+  "homepage": "https://github.com/jaydendyer10/jayden-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
